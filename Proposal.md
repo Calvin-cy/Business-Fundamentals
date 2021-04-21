@@ -19,10 +19,8 @@
 - Will use the second dataset to find the Click rate of the billboard 100 songs 
 
 ## Tools:
-- Python (Jupyter Nobebook)
-- Pandas and Numpy : Examine the data and Clean the data
-- Sklearn to create a regression model 
-- Matplotlib and seaborn to visualize the data
+- Google Spreadsheet - data cleaning, visualization, V-lookup on grouping two data sets into one 
+- Python - Create a Regression model to predict how each feature contributes to the click rate  (If have time) 
 
 ## MVP 
 - Create a model that can explain how does each feature contributes to the song in order to become popular 
