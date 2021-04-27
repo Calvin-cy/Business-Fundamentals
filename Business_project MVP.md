@@ -3,7 +3,7 @@
 This graph shows us how much profits the songs make and is distributed by the keys and mode
 
 - (The estimated overall key of the track. Integers map to pitches using standard Pitch Class notation . E.g. 0 = C, 1 = C♯/D♭, 2 = D,)
-- C = 0, C-sharp = 1, D = 2, D-sharp = 3, E = 4, F = 5, F-sharp = 6, G = 7, G-sharp = 8, A = 9, B-flat = 10 (T), and B = 1 1 (E).
+- C = 0, C-sharp = 1, D = 2, D-sharp = 3, E = 4, F = 5, F-sharp = 6, G = 7, G-sharp = 8, A = 9, B-flat = 10, and B = 11.
 
 - (Mode indicates the modality (major or minor) of a track, the type of scale from which its melodic content is, 0:minor,1:major)
 
